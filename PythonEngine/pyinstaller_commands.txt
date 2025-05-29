@@ -1,0 +1,9 @@
+pyinstaller --onedir --name WhisperTranscriber ^
+    --add-binary="[YOUR PATH]\ffmpeg.exe;." ^
+    --add-binary="[YOUR PATH]\ffprobe.exe;." ^
+    --add-binary "[YOUR PARTH]\tbb12.dll:." ^
+    --add-data "[YOUR PATH]\embedded_whisper_models:embedded_whisper_models" ^
+    --add-data "[YOUR PYTHON PATH]\Lib\site-packages\whisper\assets:whisper/assets" ^
+    --hidden-import=tiktoken_ext.openai_public ^
+    --hidden-import=tiktoken_ext ^
+    transcribe_audio.py

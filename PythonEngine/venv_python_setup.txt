@@ -1,0 +1,5 @@
+cd [The path where you want to install your Python version]
+python -m venv [venv folder name]
+.\[venv folder name]\Scripts\activate
+
+Now you can work on your new Python venv!
