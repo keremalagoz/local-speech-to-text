@@ -1,0 +1,39 @@
+Son Kullanıcı Lisans Sözleşmesi (EULA) - [Whisper Speech to Text]
+
+Lütfen bu yazılımı ("Yazılım") kurmadan veya kullanmadan önce aşağıdaki şartları ve koşulları dikkatlice okuyunuz. Bu Yazılımı kurarak, kopyalayarak veya başka bir şekilde kullanarak, bu Son Kullanıcı Lisans Sözleşmesi'nin ("EULA") şartlarına bağlı kalmayı kabul etmiş olursunuz. Bu şartları kabul etmiyorsanız, Yazılımı kurmayın veya kullanmayın.
+
+1. LİSANS VERİLMESİ
+Kerem Alagöz ("Lisans Veren"), size Yazılımı kişisel, ticari olmayan (veya ticari, eğer uygunsa belirtin) amaçlarla kullanmanız için münhasır olmayan, devredilemeyen bir lisans vermektedir.
+
+2. KISITLAMALAR
+Aşağıdakileri yapamazsınız:
+    a) Yazılımı tersine mühendislik işlemine tabi tutmak, kaynak kodunu ortaya çıkarmak, parçalarına ayırmak veya Yazılımın kaynak kodunu türetmeye çalışmak (ilgili yasaların izin verdiği ölçüde bu kısıtlama geçerlidir).
+    b) Yazılımı değiştirmek, uyarlamak veya Yazılımdan türev çalışmalar oluşturmak.
+    c) Yazılımı kiralamak, leasing yoluyla vermek, alt lisanslamak, satmak, yeniden dağıtmak veya başka bir şekilde üçüncü taraflara devretmek.
+    d) Yazılımdaki herhangi bir telif hakkı veya diğer mülkiyet bildirimlerini kaldırmak veya değiştirmek.
+
+3. MÜLKİYET
+Yazılım ve ilgili tüm telif hakları, ticari markalar ve diğer fikri mülkiyet hakları Lisans Veren'e aittir ve yürürlükteki telif hakkı yasaları ve uluslararası anlaşmalarla korunmaktadır. Bu EULA kapsamında size açıkça verilmeyen tüm haklar Lisans Veren tarafından saklı tutulur.
+
+4. GARANTİ REDDİ
+YAZILIM "OLDUĞU GİBİ" SAĞLANMAKTADIR VE AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR. LİSANS VEREN, YAZILIMIN KESİNTİSİZ VEYA HATASIZ ÇALIŞACAĞINA, KUSURLARIN DÜZELTİLECEĞİNE VEYA YAZILIMIN BELİRLİ GEREKSİNİMLERİNİZİ KARŞILAYACAĞINA DAİR HİÇBİR GARANTİ VERMEZ. LİSANS VEREN, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DE DAHİL OLMAK ÜZERE, ANCAK BUNLARLA SINIRLI OLMAMAK KAYDIYLA, TÜM ZIMNİ GARANTİLERİ AÇIKÇA REDDEDER.
+
+5. SORUMLULUĞUN SINIRLANDIRILMASI
+LİSANS VEREN, HİÇBİR DURUMDA, YAZILIMIN KULLANIMINDAN VEYA KULLANILAMAMASINDAN KAYNAKLANAN (KAR KAYBI, İŞ KESİNTİSİ, VERİ KAYBI VEYA DİĞER MADDİ KAYIPLAR DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE) DOĞRUDAN, DOLAYLI, ARIZİ, ÖZEL, CEZAİ VEYA SONUÇ OLARAK ORTAYA ÇIKAN ZARARLARDAN, LİSANS VEREN BU TÜR ZARARLARIN OLASILIĞI KONUSUNDA BİLGİLENDİRİLMİŞ OLSA BİLE, SORUMLU TUTULAMAZ. BAZI YARGI BÖLGELERİ ARIZİ VEYA SONUÇ OLARAK ORTAYA ÇIKAN ZARARLARIN HARİÇ TUTULMASINA VEYA SINIRLANDIRILMASINA İZİN VERMEMEKTEDİR, BU NEDENLE YUKARIDAKİ SINIRLAMA SİZİN İÇİN GEÇERLİ OLMAYABİLİR.
+
+6. ÜÇÜNCÜ TARAF BİLEŞENLER
+Yazılım, üçüncü taraf yazılımlar veya bileşenler içerebilir. Bu tür üçüncü taraf bileşenlerin kullanımı, kendi lisans koşullarına tabi olabilir. Bu Yazılımı kullanarak, bu tür üçüncü taraf lisans koşullarına uymayı kabul edersiniz.
+    (Örneğin: Bu yazılım OpenAI Whisper modelini kullanmaktadır. OpenAI Whisper'ın kullanımı OpenAI'nin ilgili kullanım koşullarına tabidir. Bu yazılım PyTorch, FFmpeg gibi açık kaynak kütüphaneler kullanmaktadır. Bu kütüphanelerin lisansları için lütfen kendi belgelerine bakınız.)
+
+7. FESİH
+Bu EULA'nın herhangi bir şartına uymamanız durumunda, bu EULA kapsamındaki haklarınız Lisans Veren tarafından herhangi bir bildirimde bulunulmaksızın otomatik olarak sona erer. Fesih üzerine, Yazılımın tüm kopyalarını imha etmeniz gerekir.
+
+8. UYGULANACAK HUKUK
+Bu EULA, [Ülkenizin/Bölgenizin Adı] yasalarına göre yönetilecek ve yorumlanacaktır.
+
+9. GENEL HÜKÜMLER
+Bu EULA, Yazılımın kullanımıyla ilgili olarak siz ve Lisans Veren arasındaki anlaşmanın tamamını oluşturur ve Yazılımla ilgili önceki veya eşzamanlı tüm sözlü veya yazılı iletişim, teklif ve beyanların yerine geçer.
+
+Bu EULA'nın şartlarını kabul ediyorsanız, devam etmek için "Kabul Ediyorum" seçeneğini tıklayın.
+
+Tarih: 28.05.2025
