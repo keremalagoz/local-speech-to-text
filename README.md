@@ -127,8 +127,6 @@ Developed by Kerem Alagöz.
 
 -----
 
-\<a name="-türkçe"\>\</a\>
-
 ## 🇹🇷 Türkçe
 
 # Whisper Speech to Text
