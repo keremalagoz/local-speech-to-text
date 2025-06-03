@@ -1,10 +1,6 @@
------
+[🇬🇧 English](#-english) | [🇹🇷 Türkçe](#-türkçe)
 
-[🇬🇧 English](https://www.google.com/search?q=%23-english) | [🇹🇷 Türkçe](https://www.google.com/search?q=%23-t%C3%BCrk%C3%A7e)
-
------
-
-\<a name="-english"\>\</a\>
+<a name="-english"></a>
 
 ## 🇬🇧 English
 
